@@ -1,4 +1,4 @@
-yamlname: Daily HGEM Dashboard Update
+name: Daily HGEM Dashboard Update
 
 on:
   schedule:
